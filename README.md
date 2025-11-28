@@ -16,3 +16,4 @@ Patterns :
 - mediator
 - state
 - decorator
+- composite
