@@ -18,3 +18,4 @@ Patterns :
 - decorator
 - composite
 - facade
+- flyweight
