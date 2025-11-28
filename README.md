@@ -19,3 +19,4 @@ Patterns :
 - composite
 - facade
 - flyweight
+- visitor
