@@ -17,3 +17,4 @@ Patterns :
 - state
 - decorator
 - composite
+- facade
