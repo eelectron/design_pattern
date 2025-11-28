@@ -15,3 +15,4 @@ Patterns :
 - builder
 - mediator
 - state
+- decorator
