@@ -33,3 +33,4 @@ Patterns :
 - singleton
 - abstract factory
 - null object
+- object pool
