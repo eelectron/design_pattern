@@ -1,5 +1,11 @@
-Learning design pattern using Java .  
-Using study mode from chatgpt as a reference .
+Learning design pattern using Java .
+
+Tools used for learning
+- study mode from chatgpt https://chatgpt.com/. 
+- Github Copilot to generate code snippets .
+- IntelliJ IDEA as IDE .
+- Gradle as build tool .
+- Java 25 as programming language .
 
 
 Patterns :
@@ -20,3 +26,4 @@ Patterns :
 - facade
 - flyweight
 - visitor
+- iterator
