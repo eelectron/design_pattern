@@ -28,3 +28,4 @@ Patterns :
 - visitor
 - iterator
 - interpreter
+- memento
