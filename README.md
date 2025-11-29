@@ -32,3 +32,4 @@ Patterns :
 - bridge
 - singleton
 - abstract factory
+- null object
