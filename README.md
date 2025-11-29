@@ -29,3 +29,6 @@ Patterns :
 - iterator
 - interpreter
 - memento
+- bridge
+- singleton
+- abstract factory
